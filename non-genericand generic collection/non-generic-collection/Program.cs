@@ -13,13 +13,25 @@ namespace non_generic_collection
         {
             ArrayList MyArrayList = new ArrayList();
             List<string> MyList = new List<string>();
+            MyArrayList.Add("1");
+            MyArrayList.Add(80);
+
+
             MyList.Add("sm");
             MyList.Add("t");
-            MyList.Clear();
+            foreach (var item in MyArrayList)
+            {
+                Console.Write(item + " ");
+
+            }
+            Console.WriteLine();
             foreach (string item in MyList)
             {
-                Console.WriteLine(item);
+                Console.Write(item + " ");
+
             }
+            Console.WriteLine();
+            MyList.Clear();
 
         }
     }
