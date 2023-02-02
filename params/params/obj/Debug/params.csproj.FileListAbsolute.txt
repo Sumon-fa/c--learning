@@ -1,0 +1,8 @@
+C:\Users\fakir\source\repos\params\params\bin\Debug\@params.exe.config
+C:\Users\fakir\source\repos\params\params\bin\Debug\@params.exe
+C:\Users\fakir\source\repos\params\params\bin\Debug\@params.pdb
+C:\Users\fakir\source\repos\params\params\obj\Debug\params.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\params\params\obj\Debug\params.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\params\params\obj\Debug\params.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\params\params\obj\Debug\@params.exe
+C:\Users\fakir\source\repos\params\params\obj\Debug\@params.pdb

@@ -1,0 +1,8 @@
+C:\Users\fakir\source\repos\hashTable\hashTable\bin\Debug\hashTable.exe.config
+C:\Users\fakir\source\repos\hashTable\hashTable\bin\Debug\hashTable.exe
+C:\Users\fakir\source\repos\hashTable\hashTable\bin\Debug\hashTable.pdb
+C:\Users\fakir\source\repos\hashTable\hashTable\obj\Debug\hashTable.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\hashTable\hashTable\obj\Debug\hashTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\hashTable\hashTable\obj\Debug\hashTable.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\hashTable\hashTable\obj\Debug\hashTable.exe
+C:\Users\fakir\source\repos\hashTable\hashTable\obj\Debug\hashTable.pdb

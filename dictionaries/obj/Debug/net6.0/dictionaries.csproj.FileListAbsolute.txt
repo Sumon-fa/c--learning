@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\bin\Debug\net6.0\dictionaries.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\bin\Debug\net6.0\dictionaries.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\bin\Debug\net6.0\dictionaries.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\bin\Debug\net6.0\dictionaries.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\bin\Debug\net6.0\dictionaries.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\refint\dictionaries.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\dictionaries.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\dictionaries\obj\Debug\net6.0\ref\dictionaries.dll

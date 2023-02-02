@@ -1,0 +1,8 @@
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\bin\Debug\non-generic-collection.exe.config
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\bin\Debug\non-generic-collection.exe
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\bin\Debug\non-generic-collection.pdb
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\obj\Debug\non-generic-collection.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\obj\Debug\non-generic-collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\obj\Debug\non-generic-collection.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\obj\Debug\non-generic-collection.exe
+C:\Users\fakir\source\repos\non-generic-collection\non-generic-collection\obj\Debug\non-generic-collection.pdb
