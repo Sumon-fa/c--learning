@@ -1,0 +1,16 @@
+C:\Users\fakir\source\repos\data\data\bin\Debug\data.exe.config
+C:\Users\fakir\source\repos\data\data\bin\Debug\data.exe
+C:\Users\fakir\source\repos\data\data\bin\Debug\data.pdb
+C:\Users\fakir\source\repos\data\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\data\data\obj\Debug\data.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\data\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\data\data\obj\Debug\data.exe
+C:\Users\fakir\source\repos\data\data\obj\Debug\data.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\bin\Debug\data.exe.config
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\bin\Debug\data.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\bin\Debug\data.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\obj\Debug\data.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\obj\Debug\data.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\data\data\obj\Debug\data.pdb

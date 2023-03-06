@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\bin\Debug\net6.0\readFile.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\bin\Debug\net6.0\readFile.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\bin\Debug\net6.0\readFile.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\bin\Debug\net6.0\readFile.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\bin\Debug\net6.0\readFile.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\refint\readFile.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\readFile.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\readFile\obj\Debug\net6.0\ref\readFile.dll

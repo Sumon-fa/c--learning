@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\bin\Debug\net6.0\TaskDemo.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\bin\Debug\net6.0\TaskDemo.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\bin\Debug\net6.0\TaskDemo.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\bin\Debug\net6.0\TaskDemo.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\bin\Debug\net6.0\TaskDemo.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\refint\TaskDemo.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\TaskDemo.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\TaskDemo\obj\Debug\net6.0\ref\TaskDemo.dll

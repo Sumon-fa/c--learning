@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\bin\Debug\net6.0\DemoLinq.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\bin\Debug\net6.0\DemoLinq.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\bin\Debug\net6.0\DemoLinq.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\bin\Debug\net6.0\DemoLinq.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\bin\Debug\net6.0\DemoLinq.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\refint\DemoLinq.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\DemoLinq.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\DemoLinq\obj\Debug\net6.0\ref\DemoLinq.dll

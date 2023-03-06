@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\bin\Debug\net6.0\advance.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\bin\Debug\net6.0\advance.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\bin\Debug\net6.0\advance.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\bin\Debug\net6.0\advance.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\bin\Debug\net6.0\advance.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\refint\advance.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\advance.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\advance\obj\Debug\net6.0\ref\advance.dll

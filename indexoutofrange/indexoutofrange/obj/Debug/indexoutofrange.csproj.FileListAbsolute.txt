@@ -1,0 +1,8 @@
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\bin\Debug\indexoutofrange.exe.config
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\bin\Debug\indexoutofrange.exe
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\bin\Debug\indexoutofrange.pdb
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\obj\Debug\indexoutofrange.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\obj\Debug\indexoutofrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\obj\Debug\indexoutofrange.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\obj\Debug\indexoutofrange.exe
+C:\Users\fakir\source\repos\indexoutofrange\indexoutofrange\obj\Debug\indexoutofrange.pdb

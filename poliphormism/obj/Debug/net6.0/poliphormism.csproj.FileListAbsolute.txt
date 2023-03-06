@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\bin\Debug\net6.0\poliphormism.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\bin\Debug\net6.0\poliphormism.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\bin\Debug\net6.0\poliphormism.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\bin\Debug\net6.0\poliphormism.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\bin\Debug\net6.0\poliphormism.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\refint\poliphormism.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\poliphormism.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\c#-Execercie\poliphormism\obj\Debug\net6.0\ref\poliphormism.dll

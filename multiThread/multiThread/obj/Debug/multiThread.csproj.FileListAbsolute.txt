@@ -1,0 +1,8 @@
+C:\Users\fakir\source\repos\multiThread\multiThread\bin\Debug\multiThread.exe.config
+C:\Users\fakir\source\repos\multiThread\multiThread\bin\Debug\multiThread.exe
+C:\Users\fakir\source\repos\multiThread\multiThread\bin\Debug\multiThread.pdb
+C:\Users\fakir\source\repos\multiThread\multiThread\obj\Debug\multiThread.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\multiThread\multiThread\obj\Debug\multiThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\multiThread\multiThread\obj\Debug\multiThread.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\multiThread\multiThread\obj\Debug\multiThread.exe
+C:\Users\fakir\source\repos\multiThread\multiThread\obj\Debug\multiThread.pdb

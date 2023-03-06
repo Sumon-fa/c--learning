@@ -1,0 +1,8 @@
+C:\Users\fakir\source\repos\Serialize\Serialize\bin\Debug\Serialize.exe.config
+C:\Users\fakir\source\repos\Serialize\Serialize\bin\Debug\Serialize.exe
+C:\Users\fakir\source\repos\Serialize\Serialize\bin\Debug\Serialize.pdb
+C:\Users\fakir\source\repos\Serialize\Serialize\obj\Debug\Serialize.csproj.AssemblyReference.cache
+C:\Users\fakir\source\repos\Serialize\Serialize\obj\Debug\Serialize.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakir\source\repos\Serialize\Serialize\obj\Debug\Serialize.csproj.CoreCompileInputs.cache
+C:\Users\fakir\source\repos\Serialize\Serialize\obj\Debug\Serialize.exe
+C:\Users\fakir\source\repos\Serialize\Serialize\obj\Debug\Serialize.pdb
